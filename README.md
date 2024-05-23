@@ -1,3 +1,3 @@
 # Selection Sort
 
-Selection Sort Algorithm Implementation
+Selection Sort Algorithm Implementation.
